@@ -1,0 +1,3 @@
+v5.0.1 
+	- Support MacOS 10.11.
+	- Fix 802.1x WPA2-TKIP/WPA connect failed. 

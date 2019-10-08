@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>13F1911</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>ShowHiddenFiles</string>
+	<key>CFBundleIconFile</key>
+	<string>icon.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.gotoes.ShowHiddenFiles</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>ShowHiddenFiles</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>2.0.6</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>62</string>
+	<key>DDBuildNumber</key>
+	<string>62</string>
+	<key>DDVersionHistory</key>
+	<string>2.0.5 - Build: 62 (10-28-2015)
+Ready for El Capitan
+2.0.4 - Build: 61 (03-05-2013)
+Mountain Lion Improvements
+2.0.3 - Build: 60 (11-04-2012)
+Code Signed for Ease of installation on Mountaion Lion
+2.0.2 - Build: 59 (10-26-2011)
+Release
+2.0.1 - Build: 58 (10-26-2011)
+Added blatant advertising
+2.0.1 - Build: 57 (03-31-2011)
+Added More Tools Box
+2.0.1 - Build: 56 (03-31-2011)
+Added Buttons To Choose Files and Folders</string>
+	<key>DTCompiler</key>
+	<string>4.0</string>
+	<key>DTPlatformBuild</key>
+	<string>10M2518</string>
+	<key>DTPlatformVersion</key>
+	<string>PG</string>
+	<key>DTSDKBuild</key>
+	<string>10M2518</string>
+	<key>DTSDKName</key>
+	<string>macosx10.6</string>
+	<key>DTXcode</key>
+	<string>0400</string>
+	<key>DTXcodeBuild</key>
+	<string>10M2518</string>
+	<key>NSAppleScriptEnabled</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+</dict>
+</plist>
